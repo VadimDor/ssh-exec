@@ -1,6 +1,6 @@
 # ssh-exec
 
-Execute a script over ssh using Node.JS and pipe to and from it
+Execute a script over ssh using Node.JS and pipe to and from it   [![Package Quality](http://npm.packagequality.com/badge/ssh-exec-plus.png)](http://packagequality.com/#?package=ssh-exec-plus)
 
 It is available through npm
 
