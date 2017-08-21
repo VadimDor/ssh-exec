@@ -1,10 +1,10 @@
 {
-  "name": "ssh-exec",
-  "version": "2.0.0",
+  "name": "ssh-exec-plus",
+  "version": "2.0.1",
   "description": "Execute a script over ssh using Node.JS",
   "repository": {
     "type": "git",
-    "url": "git://github.com/mafintosh/ssh-exec.git"
+    "url": "https://github.com/VadimDor/ssh-exec-plus.git"
   },
   "dependencies": {
     "duplexify": "^3.2.0",
@@ -15,12 +15,12 @@
     "standard": "^5.4.1"
   },
   "bugs": {
-    "url": "https://github.com/mafintosh/ssh-exec/issues"
+    "url": "https://github.com/VadimDor/ssh-exec-plus/issues"
   },
   "scripts": {
     "test": "standard"
   },
-  "homepage": "https://github.com/mafintosh/ssh-exec",
+  "homepage": "https://github.com/VadimDor/ssh-exec-plus",
   "main": "index.js",
   "keywords": [
     "ssh",
@@ -30,5 +30,12 @@
     "connection"
   ],
   "author": "Mathias Buus (@mafintosh)",
+  "contributors": [
+    {
+      "name": "Vadim Dorezuk",
+      "email": V.Dorez@mail.ru",
+      "url": "https://github.com/vadimdor"
+    }
+  ],
   "license": "MIT"
 }
