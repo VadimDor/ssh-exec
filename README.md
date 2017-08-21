@@ -10,6 +10,12 @@ npm install ssh-exec
 
 It is written in plain Javascript and uses [ssh2](https://github.com/mscdex/ssh2) for all the heavy lifting.
 
+A SSH package aimes for further use in Atom terminal package. My name in its title does not indicate that I did all the work, rather just indicates that it has some of my preferences applied to it. It has been forked from the Cludoki/shh-exec package. 
+
+##Purpose
+
+Naturally, one may wonder why I bothered creating this package, the reason why is because I wanted to apply the bug fixes mentioned in Cloudoki/shh-exec and for some reasons not merged into original [mafintosh/ssh-exec](https://github.com/mafintosh/ssh-exec) code. This is an active fork, that is, I will keep an eye on changes to the originated from packages and if relevant I bring them downstream to this package.
+
 ## Usage
 
 ``` js
